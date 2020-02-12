@@ -9,7 +9,6 @@ public class Circle extends Shape
 		public void draw()
 		{
 			System.out.println("A circle is round in shape");
-
 		}
          
 		public void radius()

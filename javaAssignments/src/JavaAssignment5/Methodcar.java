@@ -15,7 +15,8 @@ public class Methodcar {
 								// class
 		obj.car("Ted_?", 3);// calling method with parameters(string ,integer) by creating object from
 							// vehicle class
-
+		obj.car("Ted_?", 2);// calling method with parameters(string ,integer) by creating object from
+							// vehicle class
 	}
 
 }
